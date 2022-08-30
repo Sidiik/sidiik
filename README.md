@@ -10,31 +10,13 @@
 
 <br />
 
-### My contributions
-<img width="50%" align="left" src="https://github.com/sidiik/sidiik/blob/output/github-contribution-grid-snake.gif" />
-<img width="47%" align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=sidiik&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+## My contributions
+<img width="100%" align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=sidiik&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+
+
+<img width="100%" align="left" src="https://github.com/sidiik/sidiik/blob/output/github-contribution-grid-snake.gif" />
 
 
 
 
-
-# Technology stack
-<br />
-<br />
-
-<div>
-<img   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"  />
-<img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"  />
-<img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left"  />
-<img  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" align="left"  />
-<img  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" align="left"  />
-<img  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left"  />
-</div>
-
-<br />
-<br />
-
-## Currently learning
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left"  />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  align="left" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" align="left" />
